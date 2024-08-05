@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestructorTest", "Destructo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametersTest", "ParametersTest\ParametersTest.csproj", "{A62B7641-9CEF-4121-9AAC-9269FD844810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyTest", "PropertyTest\PropertyTest.csproj", "{DB1B7E9C-B420-4F93-82CA-D48CD52677D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{A62B7641-9CEF-4121-9AAC-9269FD844810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A62B7641-9CEF-4121-9AAC-9269FD844810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A62B7641-9CEF-4121-9AAC-9269FD844810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1B7E9C-B420-4F93-82CA-D48CD52677D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1B7E9C-B420-4F93-82CA-D48CD52677D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1B7E9C-B420-4F93-82CA-D48CD52677D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1B7E9C-B420-4F93-82CA-D48CD52677D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
