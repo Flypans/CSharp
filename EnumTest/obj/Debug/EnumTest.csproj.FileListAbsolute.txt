@@ -1,0 +1,7 @@
+C:\dev\Helloworld\EnumTest\bin\Debug\EnumTest.exe.config
+C:\dev\Helloworld\EnumTest\bin\Debug\EnumTest.exe
+C:\dev\Helloworld\EnumTest\bin\Debug\EnumTest.pdb
+C:\dev\Helloworld\EnumTest\obj\Debug\EnumTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\EnumTest\obj\Debug\EnumTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\EnumTest\obj\Debug\EnumTest.exe
+C:\dev\Helloworld\EnumTest\obj\Debug\EnumTest.pdb

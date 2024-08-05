@@ -1,0 +1,7 @@
+C:\dev\Helloworld\CollectionTest\bin\Debug\CollectionTest.exe.config
+C:\dev\Helloworld\CollectionTest\bin\Debug\CollectionTest.exe
+C:\dev\Helloworld\CollectionTest\bin\Debug\CollectionTest.pdb
+C:\dev\Helloworld\CollectionTest\obj\Debug\CollectionTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\CollectionTest\obj\Debug\CollectionTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\CollectionTest\obj\Debug\CollectionTest.exe
+C:\dev\Helloworld\CollectionTest\obj\Debug\CollectionTest.pdb

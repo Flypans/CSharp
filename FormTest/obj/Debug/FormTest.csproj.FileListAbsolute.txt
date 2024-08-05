@@ -1,0 +1,7 @@
+C:\dev\Helloworld\FormTest\obj\Debug\FormTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\FormTest\obj\Debug\FormTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\FormTest\bin\Debug\FormTest.exe.config
+C:\dev\Helloworld\FormTest\bin\Debug\FormTest.exe
+C:\dev\Helloworld\FormTest\bin\Debug\FormTest.pdb
+C:\dev\Helloworld\FormTest\obj\Debug\FormTest.exe
+C:\dev\Helloworld\FormTest\obj\Debug\FormTest.pdb

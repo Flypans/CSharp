@@ -1,0 +1,7 @@
+C:\dev\Helloworld\NameSpaceTest\bin\Debug\NameSpaceTest.exe.config
+C:\dev\Helloworld\NameSpaceTest\bin\Debug\NameSpaceTest.exe
+C:\dev\Helloworld\NameSpaceTest\bin\Debug\NameSpaceTest.pdb
+C:\dev\Helloworld\NameSpaceTest\obj\Debug\NameSpaceTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\NameSpaceTest\obj\Debug\NameSpaceTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\NameSpaceTest\obj\Debug\NameSpaceTest.exe
+C:\dev\Helloworld\NameSpaceTest\obj\Debug\NameSpaceTest.pdb

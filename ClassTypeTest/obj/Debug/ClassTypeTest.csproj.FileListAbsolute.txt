@@ -1,0 +1,7 @@
+C:\dev\Helloworld\ClassTypeTest\bin\Debug\ClassTypeTest.exe.config
+C:\dev\Helloworld\ClassTypeTest\bin\Debug\ClassTypeTest.exe
+C:\dev\Helloworld\ClassTypeTest\bin\Debug\ClassTypeTest.pdb
+C:\dev\Helloworld\ClassTypeTest\obj\Debug\ClassTypeTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\ClassTypeTest\obj\Debug\ClassTypeTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\ClassTypeTest\obj\Debug\ClassTypeTest.exe
+C:\dev\Helloworld\ClassTypeTest\obj\Debug\ClassTypeTest.pdb

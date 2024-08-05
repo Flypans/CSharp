@@ -1,0 +1,6 @@
+C:\dev\Helloworld\ExceptionTest\bin\Debug\ExceptionTest.exe.config
+C:\dev\Helloworld\ExceptionTest\bin\Debug\ExceptionTest.exe
+C:\dev\Helloworld\ExceptionTest\bin\Debug\ExceptionTest.pdb
+C:\dev\Helloworld\ExceptionTest\obj\Debug\ExceptionTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\ExceptionTest\obj\Debug\ExceptionTest.exe
+C:\dev\Helloworld\ExceptionTest\obj\Debug\ExceptionTest.pdb

@@ -1,0 +1,6 @@
+C:\dev\Helloworld\RandomTest\bin\Debug\RandomTest.exe.config
+C:\dev\Helloworld\RandomTest\bin\Debug\RandomTest.exe
+C:\dev\Helloworld\RandomTest\bin\Debug\RandomTest.pdb
+C:\dev\Helloworld\RandomTest\obj\Debug\RandomTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\RandomTest\obj\Debug\RandomTest.exe
+C:\dev\Helloworld\RandomTest\obj\Debug\RandomTest.pdb

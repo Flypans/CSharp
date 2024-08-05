@@ -1,0 +1,7 @@
+C:\dev\Helloworld\ObjectTest\bin\Debug\ObjectTest.exe.config
+C:\dev\Helloworld\ObjectTest\bin\Debug\ObjectTest.exe
+C:\dev\Helloworld\ObjectTest\bin\Debug\ObjectTest.pdb
+C:\dev\Helloworld\ObjectTest\obj\Debug\ObjectTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\ObjectTest\obj\Debug\ObjectTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\ObjectTest\obj\Debug\ObjectTest.exe
+C:\dev\Helloworld\ObjectTest\obj\Debug\ObjectTest.pdb

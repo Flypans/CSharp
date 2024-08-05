@@ -1,0 +1,7 @@
+C:\dev\Helloworld\ParametersTest\obj\Debug\ParametersTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\ParametersTest\obj\Debug\ParametersTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\ParametersTest\bin\Debug\ParametersTest.exe.config
+C:\dev\Helloworld\ParametersTest\bin\Debug\ParametersTest.exe
+C:\dev\Helloworld\ParametersTest\bin\Debug\ParametersTest.pdb
+C:\dev\Helloworld\ParametersTest\obj\Debug\ParametersTest.exe
+C:\dev\Helloworld\ParametersTest\obj\Debug\ParametersTest.pdb

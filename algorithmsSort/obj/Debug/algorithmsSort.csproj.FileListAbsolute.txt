@@ -1,0 +1,7 @@
+C:\dev\Helloworld\algorithmsSort\bin\Debug\algorithmsSort.exe.config
+C:\dev\Helloworld\algorithmsSort\bin\Debug\algorithmsSort.exe
+C:\dev\Helloworld\algorithmsSort\bin\Debug\algorithmsSort.pdb
+C:\dev\Helloworld\algorithmsSort\obj\Debug\algorithmsSort.csproj.AssemblyReference.cache
+C:\dev\Helloworld\algorithmsSort\obj\Debug\algorithmsSort.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\algorithmsSort\obj\Debug\algorithmsSort.exe
+C:\dev\Helloworld\algorithmsSort\obj\Debug\algorithmsSort.pdb

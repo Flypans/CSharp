@@ -1,0 +1,7 @@
+C:\dev\Helloworld\DestructorTest\bin\Debug\DestructorTest.exe.config
+C:\dev\Helloworld\DestructorTest\bin\Debug\DestructorTest.exe
+C:\dev\Helloworld\DestructorTest\bin\Debug\DestructorTest.pdb
+C:\dev\Helloworld\DestructorTest\obj\Debug\DestructorTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\DestructorTest\obj\Debug\DestructorTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\DestructorTest\obj\Debug\DestructorTest.exe
+C:\dev\Helloworld\DestructorTest\obj\Debug\DestructorTest.pdb

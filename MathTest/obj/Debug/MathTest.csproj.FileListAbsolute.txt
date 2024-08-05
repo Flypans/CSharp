@@ -1,0 +1,7 @@
+C:\dev\Helloworld\MathTest\bin\Debug\MathTest.exe.config
+C:\dev\Helloworld\MathTest\bin\Debug\MathTest.exe
+C:\dev\Helloworld\MathTest\bin\Debug\MathTest.pdb
+C:\dev\Helloworld\MathTest\obj\Debug\MathTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\MathTest\obj\Debug\MathTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\MathTest\obj\Debug\MathTest.exe
+C:\dev\Helloworld\MathTest\obj\Debug\MathTest.pdb
