@@ -1,0 +1,7 @@
+C:\dev\Helloworld\PartialClassTest\bin\Debug\PartialClassTest.exe.config
+C:\dev\Helloworld\PartialClassTest\bin\Debug\PartialClassTest.exe
+C:\dev\Helloworld\PartialClassTest\bin\Debug\PartialClassTest.pdb
+C:\dev\Helloworld\PartialClassTest\obj\Debug\PartialClassTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\PartialClassTest\obj\Debug\PartialClassTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\PartialClassTest\obj\Debug\PartialClassTest.exe
+C:\dev\Helloworld\PartialClassTest\obj\Debug\PartialClassTest.pdb
