@@ -1,0 +1,7 @@
+C:\dev\Helloworld\ImmutableTypeTest\bin\Debug\ImmutableTypeTest.exe.config
+C:\dev\Helloworld\ImmutableTypeTest\bin\Debug\ImmutableTypeTest.exe
+C:\dev\Helloworld\ImmutableTypeTest\bin\Debug\ImmutableTypeTest.pdb
+C:\dev\Helloworld\ImmutableTypeTest\obj\Debug\ImmutableTypeTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\ImmutableTypeTest\obj\Debug\ImmutableTypeTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\ImmutableTypeTest\obj\Debug\ImmutableTypeTest.exe
+C:\dev\Helloworld\ImmutableTypeTest\obj\Debug\ImmutableTypeTest.pdb

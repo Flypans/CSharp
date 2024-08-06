@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClassTest", "Partial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointImperativ", "PointImperativ\PointImperativ.csproj", "{62455DA1-1A08-405B-BBFA-FC707B08F4CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableTypeTest", "ImmutableTypeTest\ImmutableTypeTest.csproj", "{82E46482-6258-471A-9C67-00867AA2B180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{62455DA1-1A08-405B-BBFA-FC707B08F4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62455DA1-1A08-405B-BBFA-FC707B08F4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62455DA1-1A08-405B-BBFA-FC707B08F4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E46482-6258-471A-9C67-00867AA2B180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E46482-6258-471A-9C67-00867AA2B180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E46482-6258-471A-9C67-00867AA2B180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E46482-6258-471A-9C67-00867AA2B180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
