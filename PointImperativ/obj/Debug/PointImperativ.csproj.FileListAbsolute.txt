@@ -1,0 +1,6 @@
+C:\dev\Helloworld\PointImperativ\bin\Debug\PointImperativ.exe.config
+C:\dev\Helloworld\PointImperativ\bin\Debug\PointImperativ.exe
+C:\dev\Helloworld\PointImperativ\bin\Debug\PointImperativ.pdb
+C:\dev\Helloworld\PointImperativ\obj\Debug\PointImperativ.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\PointImperativ\obj\Debug\PointImperativ.exe
+C:\dev\Helloworld\PointImperativ\obj\Debug\PointImperativ.pdb
