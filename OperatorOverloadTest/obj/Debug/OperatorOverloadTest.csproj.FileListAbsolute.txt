@@ -1,0 +1,6 @@
+C:\dev\Helloworld\OperatorOverloadTest\bin\Debug\OperatorOverloadTest.exe.config
+C:\dev\Helloworld\OperatorOverloadTest\bin\Debug\OperatorOverloadTest.exe
+C:\dev\Helloworld\OperatorOverloadTest\bin\Debug\OperatorOverloadTest.pdb
+C:\dev\Helloworld\OperatorOverloadTest\obj\Debug\OperatorOverloadTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\OperatorOverloadTest\obj\Debug\OperatorOverloadTest.exe
+C:\dev\Helloworld\OperatorOverloadTest\obj\Debug\OperatorOverloadTest.pdb
