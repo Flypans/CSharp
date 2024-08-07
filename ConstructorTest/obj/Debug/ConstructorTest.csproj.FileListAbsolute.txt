@@ -1,7 +1,6 @@
 C:\dev\Helloworld\ConstructorTest\bin\Debug\ConstructorTest.exe.config
 C:\dev\Helloworld\ConstructorTest\bin\Debug\ConstructorTest.exe
 C:\dev\Helloworld\ConstructorTest\bin\Debug\ConstructorTest.pdb
-C:\dev\Helloworld\ConstructorTest\obj\Debug\ConstructorTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\ConstructorTest\obj\Debug\ConstructorTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\ConstructorTest\obj\Debug\ConstructorTest.exe
 C:\dev\Helloworld\ConstructorTest\obj\Debug\ConstructorTest.pdb

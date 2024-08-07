@@ -1,7 +1,6 @@
-C:\dev\Helloworld\IndexerUndIterator\obj\Debug\IndexerUndIterator.csproj.AssemblyReference.cache
-C:\dev\Helloworld\IndexerUndIterator\obj\Debug\IndexerUndIterator.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\IndexerUndIterator\bin\Debug\IndexerUndIterator.exe.config
 C:\dev\Helloworld\IndexerUndIterator\bin\Debug\IndexerUndIterator.exe
 C:\dev\Helloworld\IndexerUndIterator\bin\Debug\IndexerUndIterator.pdb
+C:\dev\Helloworld\IndexerUndIterator\obj\Debug\IndexerUndIterator.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\IndexerUndIterator\obj\Debug\IndexerUndIterator.exe
 C:\dev\Helloworld\IndexerUndIterator\obj\Debug\IndexerUndIterator.pdb

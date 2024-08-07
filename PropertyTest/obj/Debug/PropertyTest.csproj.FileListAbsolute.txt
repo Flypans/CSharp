@@ -1,7 +1,6 @@
 C:\dev\Helloworld\PropertyTest\bin\Debug\PropertyTest.exe.config
 C:\dev\Helloworld\PropertyTest\bin\Debug\PropertyTest.exe
 C:\dev\Helloworld\PropertyTest\bin\Debug\PropertyTest.pdb
-C:\dev\Helloworld\PropertyTest\obj\Debug\PropertyTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\PropertyTest\obj\Debug\PropertyTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\PropertyTest\obj\Debug\PropertyTest.exe
 C:\dev\Helloworld\PropertyTest\obj\Debug\PropertyTest.pdb

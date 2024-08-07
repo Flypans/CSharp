@@ -1,7 +1,6 @@
 C:\dev\Helloworld\LinqTest\bin\Debug\LinqTest.exe.config
 C:\dev\Helloworld\LinqTest\bin\Debug\LinqTest.exe
 C:\dev\Helloworld\LinqTest\bin\Debug\LinqTest.pdb
-C:\dev\Helloworld\LinqTest\obj\Debug\LinqTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\LinqTest\obj\Debug\LinqTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\LinqTest\obj\Debug\LinqTest.exe
 C:\dev\Helloworld\LinqTest\obj\Debug\LinqTest.pdb

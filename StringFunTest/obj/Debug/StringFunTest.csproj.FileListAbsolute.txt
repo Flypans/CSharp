@@ -1,7 +1,6 @@
 C:\dev\Helloworld\StringFunTest\bin\Debug\StringFunTest.exe.config
 C:\dev\Helloworld\StringFunTest\bin\Debug\StringFunTest.exe
 C:\dev\Helloworld\StringFunTest\bin\Debug\StringFunTest.pdb
-C:\dev\Helloworld\StringFunTest\obj\Debug\StringFunTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\StringFunTest\obj\Debug\StringFunTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\StringFunTest\obj\Debug\StringFunTest.exe
 C:\dev\Helloworld\StringFunTest\obj\Debug\StringFunTest.pdb

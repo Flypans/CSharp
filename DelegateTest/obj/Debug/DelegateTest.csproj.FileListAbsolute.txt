@@ -1,7 +1,6 @@
 C:\dev\Helloworld\DelegateTest\bin\Debug\DelegateTest.exe.config
 C:\dev\Helloworld\DelegateTest\bin\Debug\DelegateTest.exe
 C:\dev\Helloworld\DelegateTest\bin\Debug\DelegateTest.pdb
-C:\dev\Helloworld\DelegateTest\obj\Debug\DelegateTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\DelegateTest\obj\Debug\DelegateTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\DelegateTest\obj\Debug\DelegateTest.exe
 C:\dev\Helloworld\DelegateTest\obj\Debug\DelegateTest.pdb

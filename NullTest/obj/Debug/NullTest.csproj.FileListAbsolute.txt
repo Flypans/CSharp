@@ -1,7 +1,6 @@
 C:\dev\Helloworld\NullTest\bin\Debug\NullTest.exe.config
 C:\dev\Helloworld\NullTest\bin\Debug\NullTest.exe
 C:\dev\Helloworld\NullTest\bin\Debug\NullTest.pdb
-C:\dev\Helloworld\NullTest\obj\Debug\NullTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\NullTest\obj\Debug\NullTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\NullTest\obj\Debug\NullTest.exe
 C:\dev\Helloworld\NullTest\obj\Debug\NullTest.pdb

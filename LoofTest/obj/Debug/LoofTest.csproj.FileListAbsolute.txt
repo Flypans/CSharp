@@ -1,0 +1,6 @@
+C:\dev\Helloworld\LoofTest\bin\Debug\LoofTest.exe.config
+C:\dev\Helloworld\LoofTest\bin\Debug\LoofTest.exe
+C:\dev\Helloworld\LoofTest\bin\Debug\LoofTest.pdb
+C:\dev\Helloworld\LoofTest\obj\Debug\LoofTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\LoofTest\obj\Debug\LoofTest.exe
+C:\dev\Helloworld\LoofTest\obj\Debug\LoofTest.pdb

@@ -1,7 +1,6 @@
 C:\dev\Helloworld\StructTest\bin\Debug\StructTest.exe.config
 C:\dev\Helloworld\StructTest\bin\Debug\StructTest.exe
 C:\dev\Helloworld\StructTest\bin\Debug\StructTest.pdb
-C:\dev\Helloworld\StructTest\obj\Debug\StructTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\StructTest\obj\Debug\StructTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\StructTest\obj\Debug\StructTest.exe
 C:\dev\Helloworld\StructTest\obj\Debug\StructTest.pdb

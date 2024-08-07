@@ -1,0 +1,7 @@
+C:\dev\Helloworld\Factorial\bin\Debug\Factorial.exe.config
+C:\dev\Helloworld\Factorial\bin\Debug\Factorial.exe
+C:\dev\Helloworld\Factorial\bin\Debug\Factorial.pdb
+C:\dev\Helloworld\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+C:\dev\Helloworld\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\Factorial\obj\Debug\Factorial.exe
+C:\dev\Helloworld\Factorial\obj\Debug\Factorial.pdb

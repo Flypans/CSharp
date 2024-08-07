@@ -1,7 +1,6 @@
 C:\dev\Helloworld\OverrideTest\bin\Debug\OverrideTest.exe.config
 C:\dev\Helloworld\OverrideTest\bin\Debug\OverrideTest.exe
 C:\dev\Helloworld\OverrideTest\bin\Debug\OverrideTest.pdb
-C:\dev\Helloworld\OverrideTest\obj\Debug\OverrideTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\OverrideTest\obj\Debug\OverrideTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\OverrideTest\obj\Debug\OverrideTest.exe
 C:\dev\Helloworld\OverrideTest\obj\Debug\OverrideTest.pdb

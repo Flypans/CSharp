@@ -1,7 +1,6 @@
 C:\dev\Helloworld\EventTest\bin\Debug\EventTest.exe.config
 C:\dev\Helloworld\EventTest\bin\Debug\EventTest.exe
 C:\dev\Helloworld\EventTest\bin\Debug\EventTest.pdb
-C:\dev\Helloworld\EventTest\obj\Debug\EventTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\EventTest\obj\Debug\EventTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\EventTest\obj\Debug\EventTest.exe
 C:\dev\Helloworld\EventTest\obj\Debug\EventTest.pdb

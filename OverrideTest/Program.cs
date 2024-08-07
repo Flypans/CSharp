@@ -5,6 +5,7 @@ namespace OverrideTest
     {
         protected void Say() => Console.WriteLine("Hello Parent");
         protected void Hi() => Console.WriteLine("Guten Tag");
+
         public virtual void Arbeits_Son() => Console.WriteLine("Arzt");
         public virtual void Arbeits_Tochter() => Console.WriteLine("Ärztin");
 

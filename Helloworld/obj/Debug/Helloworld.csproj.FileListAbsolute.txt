@@ -1,0 +1,6 @@
+C:\dev\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\dev\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\dev\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\dev\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\dev\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
