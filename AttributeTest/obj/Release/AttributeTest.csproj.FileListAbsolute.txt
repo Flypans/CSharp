@@ -1,0 +1,6 @@
+C:\dev\Helloworld\AttributeTest\bin\Release\AttributeTest.exe.config
+C:\dev\Helloworld\AttributeTest\bin\Release\AttributeTest.exe
+C:\dev\Helloworld\AttributeTest\bin\Release\AttributeTest.pdb
+C:\dev\Helloworld\AttributeTest\obj\Release\AttributeTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\AttributeTest\obj\Release\AttributeTest.exe
+C:\dev\Helloworld\AttributeTest\obj\Release\AttributeTest.pdb

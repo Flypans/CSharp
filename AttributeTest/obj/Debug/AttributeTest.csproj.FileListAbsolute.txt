@@ -1,0 +1,7 @@
+C:\dev\Helloworld\AttributeTest\bin\Debug\AttributeTest.exe.config
+C:\dev\Helloworld\AttributeTest\bin\Debug\AttributeTest.exe
+C:\dev\Helloworld\AttributeTest\bin\Debug\AttributeTest.pdb
+C:\dev\Helloworld\AttributeTest\obj\Debug\AttributeTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\AttributeTest\obj\Debug\AttributeTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\AttributeTest\obj\Debug\AttributeTest.exe
+C:\dev\Helloworld\AttributeTest\obj\Debug\AttributeTest.pdb
