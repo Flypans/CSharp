@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4A774EB0-6DE2-47D4-AF7A-D0DF86D70FE3}</ProjectGuid>
+    <ProjectGuid>{1EB4FD43-B81C-4B0A-A633-C05EE1DEF02D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InheritanceTest</RootNamespace>
-    <AssemblyName>InheritanceTest</AssemblyName>
+    <RootNamespace>OverrideTest</RootNamespace>
+    <AssemblyName>OverrideTest</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="InheritanceTest.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
