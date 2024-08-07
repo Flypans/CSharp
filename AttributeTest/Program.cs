@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace AttributeTest
 {
-    public class LuxuryAttribute : Attribute 
+    public class LuxuryAttribute : Attribute
     {
         public LuxuryAttribute()
         {
@@ -43,9 +43,16 @@ namespace AttributeTest
 
             Type myCar = carType.GetType();
             MethodInfo info = myCar.GetMethod("AutoGang");
-            
-            info.Invoke(carType, null);
 
+            //info.Invoke(carType, null); //System.NullReferenceException:
+            if (info != null)
+            {
+                info.Invoke(carType, null);
+            }
+            else
+            {
+                Console.WriteLine("The method 'AutoGang' does not exist on the type 'Car'.");
+            }
         }
     }
 }
