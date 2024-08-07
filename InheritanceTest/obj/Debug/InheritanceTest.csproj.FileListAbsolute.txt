@@ -1,0 +1,7 @@
+C:\dev\Helloworld\InheritanceTest\obj\Debug\InheritanceTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\InheritanceTest\obj\Debug\InheritanceTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\InheritanceTest\bin\Debug\InheritanceTest.exe.config
+C:\dev\Helloworld\InheritanceTest\bin\Debug\InheritanceTest.exe
+C:\dev\Helloworld\InheritanceTest\bin\Debug\InheritanceTest.pdb
+C:\dev\Helloworld\InheritanceTest\obj\Debug\InheritanceTest.exe
+C:\dev\Helloworld\InheritanceTest\obj\Debug\InheritanceTest.pdb
