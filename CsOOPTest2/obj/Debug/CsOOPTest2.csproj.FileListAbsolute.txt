@@ -1,0 +1,7 @@
+C:\dev\Helloworld\CsOOPTest2\bin\Debug\CsOOPTest2.exe.config
+C:\dev\Helloworld\CsOOPTest2\bin\Debug\CsOOPTest2.exe
+C:\dev\Helloworld\CsOOPTest2\bin\Debug\CsOOPTest2.pdb
+C:\dev\Helloworld\CsOOPTest2\obj\Debug\CsOOPTest2.csproj.AssemblyReference.cache
+C:\dev\Helloworld\CsOOPTest2\obj\Debug\CsOOPTest2.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\CsOOPTest2\obj\Debug\CsOOPTest2.exe
+C:\dev\Helloworld\CsOOPTest2\obj\Debug\CsOOPTest2.pdb
