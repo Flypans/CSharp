@@ -1,0 +1,7 @@
+C:\dev\Helloworld\GenericTest2\bin\Debug\GenericTest2.exe.config
+C:\dev\Helloworld\GenericTest2\bin\Debug\GenericTest2.exe
+C:\dev\Helloworld\GenericTest2\bin\Debug\GenericTest2.pdb
+C:\dev\Helloworld\GenericTest2\obj\Debug\GenericTest2.csproj.AssemblyReference.cache
+C:\dev\Helloworld\GenericTest2\obj\Debug\GenericTest2.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\GenericTest2\obj\Debug\GenericTest2.exe
+C:\dev\Helloworld\GenericTest2\obj\Debug\GenericTest2.pdb
