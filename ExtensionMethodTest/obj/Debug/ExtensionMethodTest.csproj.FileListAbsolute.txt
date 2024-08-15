@@ -1,0 +1,7 @@
+C:\dev\Helloworld\ExtensionMethodTest\bin\Debug\ExtensionMethodTest.exe.config
+C:\dev\Helloworld\ExtensionMethodTest\bin\Debug\ExtensionMethodTest.exe
+C:\dev\Helloworld\ExtensionMethodTest\bin\Debug\ExtensionMethodTest.pdb
+C:\dev\Helloworld\ExtensionMethodTest\obj\Debug\ExtensionMethodTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\ExtensionMethodTest\obj\Debug\ExtensionMethodTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\ExtensionMethodTest\obj\Debug\ExtensionMethodTest.exe
+C:\dev\Helloworld\ExtensionMethodTest\obj\Debug\ExtensionMethodTest.pdb

@@ -48,15 +48,14 @@ namespace GenericTest2
     
     public struct ArticleSet<T, V>
     {
-        //public IEnumerable<T> Items { get; set; }
-        public List<T> Items { get; set; }
+        public IEnumerable<T> Items { get; set; }
+        //public List<T> Items { get; set; }
 
 
         public V TotalCount { get; set; }
 
-        //public ArticleSet(IEnumerable<T> items, V totalCount)
-        public ArticleSet(List<T> items, V totalCount)
-
+        //public ArticleSet(List<T> items, V totalCount)
+        public ArticleSet(IEnumerable<T> items, V totalCount)
         {
             Items = items;
             TotalCount = totalCount;
@@ -117,7 +116,7 @@ namespace GenericTest2
             var tuple = new Pair<int, double>(3141592, 3.14);
             Console.WriteLine($"{tuple.First}: {tuple.Second}");
 
-            var articles = new List<string> { "Article 1", "Article 2", "Article 3" };
+            var articles = new List<string> { "Article 1", "Article 2", "Article 3" }; // 컬렉션 초기화
             var articleSet = new ArticleSet<string, int>(articles, articles.Count);
 
             Console.WriteLine($"Total Count:{articleSet.TotalCount}");
