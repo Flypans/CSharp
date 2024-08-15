@@ -1,0 +1,7 @@
+C:\dev\Helloworld\DynamicTest\bin\Debug\DynamicTest.exe.config
+C:\dev\Helloworld\DynamicTest\bin\Debug\DynamicTest.exe
+C:\dev\Helloworld\DynamicTest\bin\Debug\DynamicTest.pdb
+C:\dev\Helloworld\DynamicTest\obj\Debug\DynamicTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\DynamicTest\obj\Debug\DynamicTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\DynamicTest\obj\Debug\DynamicTest.exe
+C:\dev\Helloworld\DynamicTest\obj\Debug\DynamicTest.pdb

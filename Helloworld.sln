@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTest2", "GenericTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodTest", "ExtensionMethodTest\ExtensionMethodTest.csproj", "{0906B54B-1C6E-43D6-BDC0-99D0249BA33F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTest", "DynamicTest\DynamicTest.csproj", "{3B0F375D-E899-4124-B93F-B72C38635EFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{0906B54B-1C6E-43D6-BDC0-99D0249BA33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0906B54B-1C6E-43D6-BDC0-99D0249BA33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0906B54B-1C6E-43D6-BDC0-99D0249BA33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0F375D-E899-4124-B93F-B72C38635EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0F375D-E899-4124-B93F-B72C38635EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0F375D-E899-4124-B93F-B72C38635EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0F375D-E899-4124-B93F-B72C38635EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
