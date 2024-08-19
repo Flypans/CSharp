@@ -62,9 +62,8 @@ namespace ThreadTest
 
         private void MultiProcess()
         {
-
+            //TPL (Task Parallel Library)
             Parallel.For(0, 10_000, (i) => { Console.WriteLine($"Waiting {i}"); });
-         
         }
 
     }
