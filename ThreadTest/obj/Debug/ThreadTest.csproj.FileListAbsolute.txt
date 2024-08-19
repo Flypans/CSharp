@@ -1,0 +1,7 @@
+C:\dev\Helloworld\ThreadTest\bin\Debug\ThreadTest.exe.config
+C:\dev\Helloworld\ThreadTest\bin\Debug\ThreadTest.exe
+C:\dev\Helloworld\ThreadTest\bin\Debug\ThreadTest.pdb
+C:\dev\Helloworld\ThreadTest\obj\Debug\ThreadTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\ThreadTest\obj\Debug\ThreadTest.exe
+C:\dev\Helloworld\ThreadTest\obj\Debug\ThreadTest.pdb
+C:\dev\Helloworld\ThreadTest\obj\Debug\ThreadTest.csproj.AssemblyReference.cache
