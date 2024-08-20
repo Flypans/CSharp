@@ -1,0 +1,7 @@
+C:\dev\Helloworld\AsyncAwaitTest\bin\Debug\AsyncAwaitTest.exe.config
+C:\dev\Helloworld\AsyncAwaitTest\bin\Debug\AsyncAwaitTest.exe
+C:\dev\Helloworld\AsyncAwaitTest\bin\Debug\AsyncAwaitTest.pdb
+C:\dev\Helloworld\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.csproj.AssemblyReference.cache
+C:\dev\Helloworld\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.exe
+C:\dev\Helloworld\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.pdb
