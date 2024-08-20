@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AsyncAwaitWpf/1.0.0": {
+        "dependencies": {
+          "AsyncAwaitTest3": "1.0.0"
+        },
+        "runtime": {
+          "AsyncAwaitWpf.dll": {}
+        }
+      },
+      "AsyncAwaitTest3/1.0.0": {
+        "dependencies": {
+          "ThreadTest": "1.0.0"
+        },
+        "runtime": {
+          "AsyncAwaitTest3.exe": {}
+        }
+      },
+      "ThreadTest/1.0.0": {
+        "runtime": {
+          "ThreadTest.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncAwaitWpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AsyncAwaitTest3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreadTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

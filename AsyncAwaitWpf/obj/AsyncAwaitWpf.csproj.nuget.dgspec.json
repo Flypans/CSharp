@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\Helloworld\\AsyncAwaitWpf\\AsyncAwaitWpf.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\Helloworld\\AsyncAwaitTest3\\AsyncAwaitTest3.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\dev\\Helloworld\\AsyncAwaitTest3\\AsyncAwaitTest3.csproj",
+        "projectName": "AsyncAwaitTest3",
+        "projectPath": "C:\\dev\\Helloworld\\AsyncAwaitTest3\\AsyncAwaitTest3.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\dev\\Helloworld\\ThreadTest\\ThreadTest.csproj": {
+                "projectPath": "C:\\dev\\Helloworld\\ThreadTest\\ThreadTest.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\dev\\Helloworld\\AsyncAwaitWpf\\AsyncAwaitWpf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\Helloworld\\AsyncAwaitWpf\\AsyncAwaitWpf.csproj",
+        "projectName": "AsyncAwaitWpf",
+        "projectPath": "C:\\dev\\Helloworld\\AsyncAwaitWpf\\AsyncAwaitWpf.csproj",
+        "packagesPath": "C:\\Users\\sbkwo\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\Helloworld\\AsyncAwaitWpf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sbkwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\Helloworld\\AsyncAwaitTest3\\AsyncAwaitTest3.csproj": {
+                "projectPath": "C:\\dev\\Helloworld\\AsyncAwaitTest3\\AsyncAwaitTest3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\Helloworld\\ThreadTest\\ThreadTest.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\dev\\Helloworld\\ThreadTest\\ThreadTest.csproj",
+        "projectName": "ThreadTest",
+        "projectPath": "C:\\dev\\Helloworld\\ThreadTest\\ThreadTest.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
