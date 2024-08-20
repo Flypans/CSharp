@@ -17,8 +17,8 @@ namespace AsyncAwaitTest
             {
                 //await
                 var response =  await client.GetAsync("https://jsonplaceholder.typicode.com/posts");
-                var content = await response.Content.ReadAsStreamAsync();
-                //var content = await response.Content.ReadAsStringAsync();
+                //var content = await response.Content.ReadAsStreamAsync();
+                var content = await response.Content.ReadAsStringAsync();
 
                 Console.WriteLine(content);
             }
