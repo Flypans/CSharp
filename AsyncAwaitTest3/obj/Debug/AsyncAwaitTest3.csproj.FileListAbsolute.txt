@@ -1,0 +1,11 @@
+C:\dev\Helloworld\AsyncAwaitTest3\bin\Debug\AsyncAwaitTest3.exe.config
+C:\dev\Helloworld\AsyncAwaitTest3\bin\Debug\AsyncAwaitTest3.exe
+C:\dev\Helloworld\AsyncAwaitTest3\bin\Debug\AsyncAwaitTest3.pdb
+C:\dev\Helloworld\AsyncAwaitTest3\obj\Debug\AsyncAwaitTest3.csproj.CoreCompileInputs.cache
+C:\dev\Helloworld\AsyncAwaitTest3\obj\Debug\AsyncAwaitTest3.exe
+C:\dev\Helloworld\AsyncAwaitTest3\obj\Debug\AsyncAwaitTest3.pdb
+C:\dev\Helloworld\AsyncAwaitTest3\bin\Debug\ThreadTest.exe
+C:\dev\Helloworld\AsyncAwaitTest3\bin\Debug\ThreadTest.pdb
+C:\dev\Helloworld\AsyncAwaitTest3\bin\Debug\ThreadTest.exe.config
+C:\dev\Helloworld\AsyncAwaitTest3\obj\Debug\AsyncAwaitTest3.csproj.AssemblyReference.cache
+C:\dev\Helloworld\AsyncAwaitTest3\obj\Debug\AsyncAwaitTest3.csproj.CopyComplete

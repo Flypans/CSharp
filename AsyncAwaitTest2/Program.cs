@@ -9,10 +9,10 @@ namespace AsyncAwaitTest2
 {
     class AsyncAwaitTest2
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)//async Task
         {
             //SyncMethodTest();
-             AsyncMethodTest();
+             await AsyncMethodTest();//await
             Console.WriteLine("Please any Key to exit !!!");
             Console.ReadLine();
         }
@@ -29,12 +29,13 @@ namespace AsyncAwaitTest2
             Console.WriteLine("Long Time...End");
             return 1;
         }
-
+/*
         private static void SyncMethodTest()
         {
             Console.WriteLine("Long Time...Start");
             Thread.Sleep(3000);
             Console.WriteLine("Long Time...End");
         }
+*/
     }
 }

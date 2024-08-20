@@ -4,4 +4,3 @@ C:\dev\Helloworld\SyncAsyncTest\bin\Debug\SyncAsyncTest.pdb
 C:\dev\Helloworld\SyncAsyncTest\obj\Debug\SyncAsyncTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\SyncAsyncTest\obj\Debug\SyncAsyncTest.exe
 C:\dev\Helloworld\SyncAsyncTest\obj\Debug\SyncAsyncTest.pdb
-C:\dev\Helloworld\SyncAsyncTest\obj\Debug\SyncAsyncTest.csproj.AssemblyReference.cache

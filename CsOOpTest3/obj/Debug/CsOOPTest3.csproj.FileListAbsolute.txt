@@ -1,7 +1,6 @@
 C:\dev\Helloworld\CsOOPTest3\bin\Debug\CsOOpTest3.exe.config
 C:\dev\Helloworld\CsOOPTest3\bin\Debug\CsOOpTest3.exe
 C:\dev\Helloworld\CsOOPTest3\bin\Debug\CsOOpTest3.pdb
-C:\dev\Helloworld\CsOOPTest3\obj\Debug\CsOOPTest3.csproj.AssemblyReference.cache
 C:\dev\Helloworld\CsOOPTest3\obj\Debug\CsOOPTest3.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\CsOOPTest3\obj\Debug\CsOOpTest3.exe
 C:\dev\Helloworld\CsOOPTest3\obj\Debug\CsOOpTest3.pdb

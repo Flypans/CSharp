@@ -1,4 +1,3 @@
-C:\dev\Helloworld\EventPatternTest\obj\Debug\EventPatternTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\EventPatternTest\obj\Debug\EventPatternTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\EventPatternTest\bin\Debug\EventPatternTest.exe.config
 C:\dev\Helloworld\EventPatternTest\bin\Debug\EventPatternTest.exe

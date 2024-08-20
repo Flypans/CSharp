@@ -1,7 +1,6 @@
 C:\dev\Helloworld\InterFaceTest2\bin\Debug\InterFaceTest2.exe.config
 C:\dev\Helloworld\InterFaceTest2\bin\Debug\InterFaceTest2.exe
 C:\dev\Helloworld\InterFaceTest2\bin\Debug\InterFaceTest2.pdb
-C:\dev\Helloworld\InterFaceTest2\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\InterFaceTest2\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\InterFaceTest2\obj\Debug\InterFaceTest2.exe
 C:\dev\Helloworld\InterFaceTest2\obj\Debug\InterFaceTest2.pdb

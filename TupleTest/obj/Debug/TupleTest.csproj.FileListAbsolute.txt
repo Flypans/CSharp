@@ -1,7 +1,6 @@
 C:\dev\Helloworld\TupleTest\bin\Debug\TupleTest.exe.config
 C:\dev\Helloworld\TupleTest\bin\Debug\TupleTest.exe
 C:\dev\Helloworld\TupleTest\bin\Debug\TupleTest.pdb
-C:\dev\Helloworld\TupleTest\obj\Debug\TupleTest.csproj.AssemblyReference.cache
 C:\dev\Helloworld\TupleTest\obj\Debug\TupleTest.csproj.CoreCompileInputs.cache
 C:\dev\Helloworld\TupleTest\obj\Debug\TupleTest.exe
 C:\dev\Helloworld\TupleTest\obj\Debug\TupleTest.pdb
