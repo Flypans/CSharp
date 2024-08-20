@@ -14,7 +14,7 @@ namespace SyncAsyncTest
         {
             Task.Run(() => DoPrint());
             Console.WriteLine("async/await 1");
-            //Thread.Sleep(1);
+            Thread.Sleep(1);
         }
         //static async Task Main(string[] args)
         //{
