@@ -153,38 +153,42 @@ namespace AsyncAwaitTest4
                         Task<Egg> eggTask = (new Egg().MakeEggAsync());
 
                         var allTasks = new List<Task> { steakTask, soupTask, eggTask };
-
-                        while (allTasks.Any())
+                        try
                         {
-                            Task finished  =  await Task.WhenAny(allTasks);
+                            while (allTasks.Any())
+                            {
+                                Task finished = await Task.WhenAny(allTasks);
 
-                            if (finished == steakTask)
-                            {
-                                Steak steak = await steakTask;
-                                Console.WriteLine($"End ... Steak-{steak}");
+                                if (finished == steakTask)
+                                {
+                                    Steak steak = await steakTask;
+                                    Console.WriteLine($"End ... Steak-{steak}");
+                                }
+                                else if (finished == soupTask)
+                                {
+                                    Soup soup = await soupTask;
+                                    Console.WriteLine($"End ... Soup-{soup}");
+                                }
+                                else if (finished == eggTask)
+                                {
+                                    Egg egg = await eggTask;
+                                    Console.WriteLine($"End ... Egg-{egg}");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("Error");
+                                }
+                                allTasks.Remove(finished);//무한루프 리스트에서 제거
                             }
-                            else if (finished == soupTask)
-                            {
-                                Soup soup = await soupTask;
-                                Console.WriteLine($"End ... Soup-{soup}");
-                                ;
-                            }
-                            else if (finished == eggTask) {
-                                Egg egg = await eggTask;
-                                Console.WriteLine($"End ... Egg-{egg}");
-
-                            }
-                            else
-                            {
-                                Console.WriteLine("Error");
-                            }
-                            allTasks.Remove(finished);//무한루프 리스트에서 제거
                         }
-
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"An error occurred: {ex.Message}");
+                        }
+                        
                         stopwatch.Stop();
                         Console.WriteLine($"End Time: {stopwatch.ElapsedMilliseconds} ms");
                         Console.WriteLine("Sync End");
-                        break;
                         break;
                     }
 
