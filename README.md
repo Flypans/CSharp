@@ -15,16 +15,16 @@ This version emphasizes that you are actively starting to code again and working
 
 ## Key Topics Covered:
 
-.NET API and Collections
-.Generics and LINQ
-.Lambda Expressions
-Static and Instance Members
-Objects and Instances
-Fields and Constructors
-Delegates and Events
-Class Inheritance and Method Overriding
-Interfaces and Reflection
-Dynamic Keyword and Dynamic Binding
-Tuples and Automated Testing
-NuGet Package Management
-Multithreading and Asynchronous Programming
+* NET API and Collections
+* Generics and LINQ
+* Lambda Expressions
+* Static and Instance Members
+* Objects and Instances
+* Fields and Constructors
+* Delegates and Events
+* Class Inheritance and Method Overriding
+* Interfaces and Reflection
+* Dynamic Keyword and Dynamic Binding
+* Tuples and Automated Testing
+* NuGet Package Management
+* Multithreading and Asynchronous Programming
